@@ -40,7 +40,7 @@ The program extracts the following data types using regex patterns:
    - Example input: `user@example.com`, `firstname.lastname@company.co.uk`
    - Masked in output to protect user identity
       - Keeps the first and last character of the username.
-      - Example output : j********e@gmail.com
+      - Example output : j********e @gmail.com
 
 2. **URLs**
    - Example: `https://www.example.com`, `http://blog.example.org/page?id=12`
@@ -106,7 +106,7 @@ Example:
 
 ```json
 {
-    "emails": ["support@example.com"],
+    "emails": [j********e@gmail.com],
     "urls": ["https://www.example.com"],
     "phones": ["123-456-7890"],
     "credit_cards": ["**** **** **** 1111"],
