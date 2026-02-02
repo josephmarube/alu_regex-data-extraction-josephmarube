@@ -106,7 +106,7 @@ Example:
 
 ```json
 {
-    "emails": [j********e@gmail.com],
+    "emails": ["j********e@gmail.com"],
     "urls": ["https://www.example.com"],
     "phones": ["123-456-7890"],
     "credit_cards": ["**** **** **** 1111"],
