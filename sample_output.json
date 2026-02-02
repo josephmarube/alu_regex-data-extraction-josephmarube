@@ -1,0 +1,56 @@
+{
+    "emails": [
+        "s*****t@example.com",
+        "a********r@company.co.uk",
+        "j******e@work-mail.net",
+        "p**************3@provider.co.uk",
+        "j******e@work-mail.net",
+        "j**************r@service.co.za"
+    ],
+    "urls": [
+        "https://www.example.com",
+        "https://internal-portal.company.org/tickets?id=4502",
+        "https://internal-portal.company.org/tickets/view?id=4502&auth=true",
+        "https://subdomain.example.org/help-center/faq.php?user=123"
+    ],
+    "phones": [
+        "(123) 456-7890",
+        "123-456-7890",
+        "123.456.7890",
+        "(555) 123-4567",
+        "555.888.9999",
+        "1-555-000-1111",
+        "(123) 456-7890",
+        "123.456.7890",
+        "0700020490",
+        "+254700020490",
+        "250788123456"
+    ],
+    "credit_cards": [
+        "**** **** **** 1111",
+        "**** **** **** 0004",
+        "**** **** **** 4444",
+        "**** **** **** 8888",
+        "**** **** **** 4444",
+        "**** **** **** 8888"
+    ],
+    "times": [
+        "09:00",
+        "5:30 PM",
+        "14:30",
+        "2:30 PM",
+        "15:30",
+        "14:30",
+        "02:45 PM",
+        "2100 hrs"
+    ],
+    "hashtags": [
+        "#FrontendDev",
+        "#Web_Development",
+        "#SaveBig2026",
+        "#CyberSecurity2026",
+        "#ALU_Regex_Assignment",
+        "#12345",
+        "#FFFFFF"
+    ]
+}

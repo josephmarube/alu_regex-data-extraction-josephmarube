@@ -1,0 +1,78 @@
+Hello team,
+
+Please contact us at support@example.com or admin.user@company.co.uk.
+Our website is https://www.example.com or http://blog.example.org/page?id=12.
+
+Call us at (123) 456-7890, 123-456-7890, or 123.456.7890.
+Office hours are from 09:00 to 5:30 PM.
+
+Payment references:
+Visa: 4111 1111 1111 1111
+MasterCard: 5500-0000-0000-0004
+
+Prices:
+$19.99, $1,234.56, $999
+
+Social:
+Follow us at #FrontendDev and #Web_Development
+
+Suspicious input attempts:
+<script>alert('hacked')</script>
+DROP TABLE users;
+fake-email@@example..com
+4111-1111-1111-XYZ
+
+
+--- SYSTEM LOG START ---
+User 'jdoe_88' logged in from IP 192.168.1.1. 
+Contact: john.doe@work-mail.net or private.email123@provider.co.uk.
+Transaction of $1,250.45 was authorized for card 4111-2222-3333-4444.
+Follow up at: https://internal-portal.company.org/tickets?id=4502.
+
+ERROR: Malicious link detected from user 'hacker': <script>window.location='http://evil.com'</script>.
+Formatting test: (555) 123-4567, 555.888.9999, and 1-555-000-1111.
+Time of event: 14:30 or 2:30 PM.
+
+Special Promo: Get $50.00 off using code #SaveBig2026.
+Check status at http://insecure-site.com/status.
+Credit card on file: 5555 6666 7777 8888 (Exp: 12/26).
+--- SYSTEM LOG END ---
+
+================================================================================
+SYSTEM LOG: DATA_SYNC_PROCESSOR | TIMESTAMP: 2026-02-02 15:30:22
+================================================================================
+
+--- USER SESSION: j.doe_dev88 ---
+User identified as john.doe@work-mail.net (Primary) or j.doe+spamfilter@service.co.za.
+Login initiated from IP: 192.168.1.45 at 14:30.
+Backup contact: +250 788 123 456 (International) or 555-0199 (Local).
+
+--- TRANSACTION DETAILS ---
+Purchase of $1,250.45 completed using credit card: 4111 2222 3333 4444.
+Recurring payment of $15.00 scheduled for 02:45 PM daily.
+Reference URL: https://internal-portal.company.org/tickets/view?id=4502&auth=true.
+
+--- SYSTEM ALERTS ---
+WARNING: Malicious activity detected from user 'anon_hacker'.
+Injected content found: <script>alert('XSS_ATTACK')</script> in phone field.
+Suspicious email detected: admin;DROP TABLE users;@malicious.com.
+Insecure link ignored: http://unprotected-site.net/login.
+
+--- SOCIAL MEDIA TAGS ---
+Tracking engagement for project #CyberSecurity2026 and #ALU_Regex_Assignment.
+Note: Avoid using #12345 (Invalid hashtag format) or #FFFFFF (Hex code conflict).
+
+--- MISC CONTACT DATA ---
+Office Line: (123) 456-7890
+Personal: 123.456.7890
+Support: https://subdomain.example.org/help-center/faq.php?user=123
+Emergency CC: 5555-6666-7777-8888 (Exp 12/28)
+
+2100 hrs
+0700020490
++254700020490
+what about +250 788 123 456 and +250 788123456 and 250788123456
+
+================================================================================
+END OF LOG FILE
+================================================================================
